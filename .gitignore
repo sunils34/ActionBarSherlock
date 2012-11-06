@@ -11,8 +11,7 @@ lint.xml
 
 #IntelliJ IDEA
 .idea
-*.iml
-*.ipr
+.ipr
 *.iws
 classes
 gen-external-apklibs
